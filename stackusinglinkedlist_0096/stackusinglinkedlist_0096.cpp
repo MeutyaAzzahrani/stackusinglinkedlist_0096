@@ -57,3 +57,6 @@ void peek() {
 	return top == NULL;
 	}
 };
+
+int main() {
+}
