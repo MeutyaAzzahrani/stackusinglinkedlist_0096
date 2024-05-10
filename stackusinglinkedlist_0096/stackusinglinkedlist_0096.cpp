@@ -39,4 +39,6 @@ void pop() {
 }
 
 void peek() {
+	if (top == NULL) {}
+
 }
